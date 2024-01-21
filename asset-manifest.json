@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JanmBhoomi/static/css/main.9a3b62e2.css",
-    "main.js": "/JanmBhoomi/static/js/main.dcd609b2.js",
+    "main.js": "/JanmBhoomi/static/js/main.49d8633e.js",
     "static/js/845.e17cc334.chunk.js": "/JanmBhoomi/static/js/845.e17cc334.chunk.js",
     "static/css/804.c8dc7f02.chunk.css": "/JanmBhoomi/static/css/804.c8dc7f02.chunk.css",
     "static/js/804.1fdc4c11.chunk.js": "/JanmBhoomi/static/js/804.1fdc4c11.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/Jai Shree Ram - Sms.mp3": "/JanmBhoomi/static/media/Jai Shree Ram - Sms.2d5df61906b018872117.mp3",
     "index.html": "/JanmBhoomi/index.html",
     "main.9a3b62e2.css.map": "/JanmBhoomi/static/css/main.9a3b62e2.css.map",
-    "main.dcd609b2.js.map": "/JanmBhoomi/static/js/main.dcd609b2.js.map",
+    "main.49d8633e.js.map": "/JanmBhoomi/static/js/main.49d8633e.js.map",
     "845.e17cc334.chunk.js.map": "/JanmBhoomi/static/js/845.e17cc334.chunk.js.map",
     "804.c8dc7f02.chunk.css.map": "/JanmBhoomi/static/css/804.c8dc7f02.chunk.css.map",
     "804.1fdc4c11.chunk.js.map": "/JanmBhoomi/static/js/804.1fdc4c11.chunk.js.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.9a3b62e2.css",
-    "static/js/main.dcd609b2.js"
+    "static/js/main.49d8633e.js"
   ]
 }

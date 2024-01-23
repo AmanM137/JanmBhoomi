@@ -67,7 +67,7 @@ function Gallery(props) {
         <Card
           src="https://i.pinimg.com/736x/a5/48/ac/a548acd294370cd590e111edda893c30.jpg"
           alt="Ram Mandir"
-          text1="n January 22, 2023, "
+          text1="On January 22, 2023, "
           span="the 'Pran Pratishtha' ceremony"
           text2=" will take place at Ram Mandir."
         />
